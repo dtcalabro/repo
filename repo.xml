@@ -16,9 +16,14 @@
 			<iconclass>fa-brands fa-discord</iconclass>
 		</link>
 		<link>
-			<name>Send me a donation</name>
+			<name>Send me a donation with PayPal</name>
 			<url>https://paypal.com/donate/?cmd=_donations%26business=dtcalabro@gmail.com%26item_name=iOS%20Tweak%20Development</url>
 			<iconclass>fa-brands fa-paypal</iconclass>
+		</link>
+        <link>
+			<name>Buy Me a Coffee</name>
+			<url>https://www.buymeacoffee.com/dtcalabro</url>
+			<iconclass>fa-solid fa-mug-hot</iconclass>
 		</link>
 	</footerlinks>
 </repo>
