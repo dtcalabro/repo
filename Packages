@@ -207,3 +207,41 @@ Icon: https://dtcalabro.github.io/repo/depictions/com.dcproducts.pagedotsbegone/
 Name: PageDotsBeGone
 Sileodepiction: https://dtcalabro.github.io/repo/depictions/com.dcproducts.pagedotsbegone/depiction.json
 
+Package: com.dcproducts.pagedotsbegone
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: Derek Calabro
+Installed-Size: 1064
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.2)
+Filename: ./debs/com.dcproducts.pagedotsbegone_1.1.0_iphoneos-arm.deb
+Size: 205456
+MD5sum: 5dc1e73b6fa6c078df7fd461a42f30cb
+SHA1: 7533a311e5b4767d0e0d2fced008751079a79461
+SHA256: 734ca5ed03cb51dab835e83298545ad66d86a4679af39c2e8f70c4bcedbb72af
+Section: Tweaks
+Description: PageDotsBeGone allows you to not only hide your page dots but also customize the way they look.
+Author: Derek Calabro
+Depiction: https://dtcalabro.github.io/repo/depictions/?p=com.dcproducts.pagedotsbegone
+Icon: https://dtcalabro.github.io/repo/depictions/com.dcproducts.pagedotsbegone/icon.png
+Name: PageDotsBeGone
+Sileodepiction: https://dtcalabro.github.io/repo/depictions/com.dcproducts.pagedotsbegone/depiction.json
+
+Package: com.dcproducts.pagedotsbegone
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: Derek Calabro
+Installed-Size: 1064
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.2)
+Filename: ./debs/com.dcproducts.pagedotsbegone_1.1.0_iphoneos-arm64.deb
+Size: 205746
+MD5sum: 9065d485997df58d9c35763ebac62064
+SHA1: cb772b30ea6befda22e79fc906c46bb01921d9f4
+SHA256: 497820ee99bdc5e180a2067656dac2897b03871102c5cd115d69fe50b4b3611c
+Section: Tweaks
+Description: PageDotsBeGone allows you to not only hide your page dots but also customize the way they look.
+Author: Derek Calabro
+Depiction: https://dtcalabro.github.io/repo/depictions/?p=com.dcproducts.pagedotsbegone
+Icon: https://dtcalabro.github.io/repo/depictions/com.dcproducts.pagedotsbegone/icon.png
+Name: PageDotsBeGone
+Sileodepiction: https://dtcalabro.github.io/repo/depictions/com.dcproducts.pagedotsbegone/depiction.json
+

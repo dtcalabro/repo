@@ -59,12 +59,12 @@
 				},
 				{
 					"title": "Latest Version",
-					"text": "1.0.0",
+					"text": "1.1.0",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Latest Release Date",
-					"text": "05-06-23",
+					"text": "03-01-25",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -120,8 +120,13 @@
 					"class": "DepictionTableButtonView"
 				},
                 {
-					"title": "Donate",
+					"title": "Donate via PayPal",
 					"action": "https://paypal.com/donate/?cmd=_donations&business=dtcalabro@gmail.com&item_name=iOS%20Tweak%20Development",
+					"class": "DepictionTableButtonView"
+				},
+                {
+					"title": "Donate via Buy Me a Coffee",
+                    "action": "https://buymeacoffee.com/dtcalabro",
 					"class": "DepictionTableButtonView"
 				}
 			],
@@ -130,6 +135,56 @@
 		{
 			"tabname": "Changelog",
 			"views": [
+                {
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"markdown": "<h3>Version 1.1.0</h3>",
+					"useSpacing": false,
+                    "useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+                {
+					"spacing": 5,
+					"class": "DepictionSpacerView"
+				},
+                {
+					"markdown": "<span style=\"margin-top: -8px;\">\u00A0\u00A0\u00A0\u00A0\u2022\u00A0 Added proper iOS 16+ support</span>",
+					"useSpacing": false,
+                    "useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+                {
+					"markdown": "<span style=\"margin-top: -8px;\">\u00A0\u00A0\u00A0\u00A0\u2022\u00A0 Updated preference bundle to use new unified dark and light mode</span>",
+					"useSpacing": false,
+                    "useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+                {
+					"markdown": "<span style=\"margin-top: -8px;\">\u00A0\u00A0\u00A0\u00A0\u2022\u00A0 General code cleanup</span>",
+					"useSpacing": false,
+                    "useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+                {
+					"markdown": "<span style=\"margin-top: -8px;\">\u00A0\u00A0\u00A0\u00A0\u2022\u00A0 Other performance and reliability optimizations and improvements</span>",
+					"useSpacing": false,
+                    "useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+                {
+					"spacing": 5,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"markdown": "<small style=\"color: #999;\">Released 03-01-25</small>",
+                    "useSpacing": false,
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+
+
                 {
 					"spacing": 20,
 					"class": "DepictionSpacerView"
