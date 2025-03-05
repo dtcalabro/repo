@@ -1,7 +1,7 @@
 <package>
 	<id>com.dcproducts.pagedotsbegone</id>
 	<name>PageDotsBeGone</name>
-	<version>1.1.0</version>
+	<version>1.2.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>15.0</miniOS>
@@ -41,10 +41,10 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Added proper iOS 16+ support</change>
-		<change>Updated preference bundle to use new unified dark and light mode</change>
-		<change>General code cleanup and performance improvements</change>
-        <change>Other performance and reliability optimizations and improvements</change>
+        <change>Added search pill and page dot pill customization on iOS 16+</change>
+        <change>Added logic to restore the original colors after customization state changes</change>
+        <change>Fixed a bug caused by last update where the reset functionality in settings was broken</change>
+        <change>Various optimizations and improvements to functionality and logic</change>
 	</changelog>
 	<links>
 		<link>

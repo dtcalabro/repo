@@ -1,5 +1,12 @@
 <changelog>
     <changes>
+		<version>1.2.0</version>
+		<change>Added search pill and page dot pill customization on iOS 16+</change>
+        <change>Added logic to restore the original colors after customization state changes</change>
+        <change>Fixed a bug caused by last update where the reset functionality in settings was broken</change>
+        <change>Various optimizations and improvements to functionality and logic</change>
+	</changes>
+    <changes>
 		<version>1.1.0</version>
 		<change>Added proper iOS 16+ support</change>
         <change>Updated preference bundle to use new unified dark and light mode</change>

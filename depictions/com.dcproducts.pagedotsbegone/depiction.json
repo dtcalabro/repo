@@ -59,12 +59,12 @@
 				},
 				{
 					"title": "Latest Version",
-					"text": "1.1.0",
+					"text": "1.2.0",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Latest Release Date",
-					"text": "03-01-25",
+					"text": "03-04-25",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -135,6 +135,56 @@
 		{
 			"tabname": "Changelog",
 			"views": [
+                {
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"markdown": "<h3>Version 1.2.0</h3>",
+					"useSpacing": false,
+                    "useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+                {
+					"spacing": 5,
+					"class": "DepictionSpacerView"
+				},
+                {
+					"markdown": "<span style=\"margin-top: -8px;\">\u00A0\u00A0\u00A0\u00A0\u2022\u00A0 Added search pill and page dot pill customization on iOS 16+</span>",
+					"useSpacing": false,
+                    "useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+                {
+					"markdown": "<span style=\"margin-top: -8px;\">\u00A0\u00A0\u00A0\u00A0\u2022\u00A0 Added logic to restore the original colors after customization state changes</span>",
+					"useSpacing": false,
+                    "useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+                {
+					"markdown": "<span style=\"margin-top: -8px;\">\u00A0\u00A0\u00A0\u00A0\u2022\u00A0 Fixed a bug caused by last update where the reset functionality in settings was broken</span>",
+					"useSpacing": false,
+                    "useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+                {
+					"markdown": "<span style=\"margin-top: -8px;\">\u00A0\u00A0\u00A0\u00A0\u2022\u00A0 Various optimizations and improvements to functionality and logic</span>",
+					"useSpacing": false,
+                    "useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+                {
+					"spacing": 5,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"markdown": "<small style=\"color: #999;\">Released 03-04-25</small>",
+                    "useSpacing": false,
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+
+
                 {
 					"spacing": 20,
 					"class": "DepictionSpacerView"
